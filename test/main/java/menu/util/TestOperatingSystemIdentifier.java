@@ -1,10 +1,9 @@
-package menu.util;
+package main.java.menu.util;
 
-import org.junit.jupiter.api.Test;
 
 //TODO: TEST
 public class TestOperatingSystemIdentifier {
-    @Test
+//    @Test
     public void testLinux() {
         OperatingSystemIdentifier.getOperatingSystem();
     }

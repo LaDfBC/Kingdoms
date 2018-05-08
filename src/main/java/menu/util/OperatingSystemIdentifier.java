@@ -1,4 +1,4 @@
-package menu.util;
+package main.java.menu.util;
 
 public class OperatingSystemIdentifier {
     private static String OS = System.getProperty("os.name").toLowerCase();

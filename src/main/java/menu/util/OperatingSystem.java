@@ -1,4 +1,4 @@
-package menu.util;
+package main.java.menu.util;
 
 public enum OperatingSystem {
     WINDOWS,

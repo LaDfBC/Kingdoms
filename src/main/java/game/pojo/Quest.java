@@ -1,4 +1,4 @@
-package game.pojo;
+package main.java.game.pojo;
 
 public class Quest {
     private String title;
