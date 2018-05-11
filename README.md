@@ -1,3 +1,3 @@
 # Kingdoms
 
-Indie main.java.game in early development.
+Indie main.java.server.game in early development.

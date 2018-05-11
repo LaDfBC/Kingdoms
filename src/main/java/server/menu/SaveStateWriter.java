@@ -1,4 +1,4 @@
-package main.java.menu;
+package main.java.server.menu;
 
 import java.io.File;
 
