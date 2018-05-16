@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="coop.nisc" module="kingdoms" revision="0.0.1"/>
+
+    <dependencies>
+        <dependency org="com.google.code.findbugs" name="jsr305" rev="3.0.2" conf="common->default" transitive="false"/>
+    </dependencies>
+</ivy-module>
